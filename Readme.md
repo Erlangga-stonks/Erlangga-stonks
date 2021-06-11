@@ -4,5 +4,13 @@
  I am 20 years old now  and my hobbies are playing a game 🎮 , watching anime <img src ="https://github.com/Erlangga-stonks/Erlangga-stonks/blob/main/Just%20picture/5628_cirno_thinking.png" width="50px">
  and Coding
  
+ #
  
+ ## Developing Pict
+ 
+ 
+ 
+ #
+ 
+ ##
  
