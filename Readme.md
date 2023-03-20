@@ -17,6 +17,6 @@
   </div>
   
   
-  ## Sertificate
+  ## Certificate
  
  
